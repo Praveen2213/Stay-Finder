@@ -3,6 +3,7 @@
 StayFinder is a full-stack web application inspired by Airbnb that allows users to discover, list, and review stays from around the world. The project is built with a real-world production mindset, focusing on authentication, data validation, cloud services, and deployment.
 
 🔗 Live Demo: https://stay-finder-tc9d.onrender.com/listings
+
 ⚠️ Note: The app may take a few seconds to load initially due to free-tier hosting.
 
 🚀 Features
